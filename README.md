@@ -3,7 +3,5 @@ Simple demo showing hand gesture recognition for WebXR using ONNX web runtime wi
 
 Try on your VR headset: https://vgfp.github.io/WebXRHandGestureRecognitionDemo/
 
-<video width="320" height="240" controls>
-  <source src="https://raw.githubusercontent.com/VGFP/WebXRHandGestureRecognitionDemo/main/videodemo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/VGFP/WebXRHandGestureRecognitionDemo/assets/45914819/c9c71e4c-af62-43a2-aa8c-d9293460eb14
+
